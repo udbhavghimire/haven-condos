@@ -20,7 +20,7 @@ $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587; // TCP port to connect to
 
 $mail->setFrom('info@havencondos.ca', $_POST['name']);
-// $mail->addAddress('hello@dolphy.ca');
+$mail->addAddress('hello@dolphy.ca');
 $mail->addAddress('milan@homebaba.ca');
 
 

@@ -114,7 +114,7 @@
             <div class=" hero-container text-center">
                 <div class="d-flex flex-column justify-content-center align-items-center">
                     <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000"
-                        data-aos-delay="50">Haven Condo - Calgary</span>
+                        data-aos-delay="50">Haven Condos Calgary</span>
                     </h1>
                     <p class=" headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center" data-aos="fade-up"
                         data-aos-duration="2000" data-aos-delay="50">Condos in Calgary by
