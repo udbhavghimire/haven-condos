@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/bramp135/havencondos.ca/
+    - /bin/cp -r * $DEPLOYPATH
